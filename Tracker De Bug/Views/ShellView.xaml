@@ -1,0 +1,106 @@
+﻿<Window
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tracker_De_Bug.Views"
+        xmlns:cal="http://www.caliburnproject.org" x:Class="Tracker_De_Bug.Views.ShellView"
+        mc:Ignorable="d"
+        Title="ShellView" Height="550" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None" >
+    <Grid>
+        <Border BorderBrush="black" BorderThickness="1">
+            <Border.Background>
+                <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/images (3).jpg"/>
+            </Border.Background>
+        </Border>
+        
+        <StackPanel>
+            <materialDesign:PackIcon Kind="Account" Height="130" Width="130" HorizontalAlignment="Center" Margin="0,20,0,0" Foreground="white"/>
+            <Label Content="Bienvenue" 
+                   FontFamily="/Tracker De Bug;component/fonts/#Champagne &amp; Limousines" 
+                   HorizontalAlignment="Center" FontSize="30"  Foreground="white"/>
+        </StackPanel>
+        
+        <Rectangle RadiusX="15" RadiusY="15" Height="270" Width="350" VerticalAlignment="Bottom" Margin="0,0,0,50" Fill="#FFFBFBFB">
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="25" Direction="-75"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <StackPanel  Height="270" Width="350" VerticalAlignment="Bottom" Margin="0,0,0,50">
+            <Label Content="Connexion" 
+                   FontFamily="/Tracker De Bug;component/fonts/#Champagne &amp; Limousines"
+                   Foreground="#FF155595" HorizontalAlignment="Center" FontSize="30" 
+                   Margin="0,20,0,0"
+                   />
+            <TextBox FontFamily="/Tracker De Bug;component/fonts/#Champagne &amp; Limousines" 
+                     HorizontalAlignment="center" 
+                     FontSize="25" 
+                     Foreground="gray" 
+                     materialDesign:HintAssist.Hint="Email"
+                     Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                     VerticalAlignment="top"
+                     Margin="0,10"
+                     Width="250"
+                     />
+            <TextBox FontFamily="/Tracker De Bug;component/fonts/#Champagne &amp; Limousines" 
+                     HorizontalAlignment="center" 
+                     FontSize="25" 
+                     Foreground="gray" 
+                     materialDesign:HintAssist.Hint="Mot de passe"
+                     Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                     VerticalAlignment="top"
+                     Width="250"
+                     />
+           
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="center" Margin="0,30,0,0">
+                <Button Content="Se connecter" Width="140" Margin="0,0,20,0" 
+                        FontFamily="/Tracker De Bug;component/fonts/#Champagne &amp; Limousines"
+                        FontWeight="Bold"
+                        Background="#FF155595"
+                        BorderBrush="Black"/>
+                <Button Content="Creer un compte" Width="140"  
+                        FontFamily="/Tracker De Bug;component/fonts/#Champagne &amp; Limousines" 
+                        FontWeight="Bold"
+                        Background="#FF155595"
+                        BorderBrush="Black"/>
+            </StackPanel>
+
+        </StackPanel>
+        <TextBlock Text="Mot de passe oublié ?" VerticalAlignment="Bottom" 
+                   HorizontalAlignment="Center" Foreground="white" FontFamily="/Tracker De Bug;component/fonts/#Champagne &amp; Limousines" 
+                   TextDecorations="{x:Null}" Margin="0,0,0,15" Cursor="Hand"/>
+
+
+
+        <!--<Rectangle Height="280" Width="280" Fill="White" RadiusX="15" RadiusY="6" Margin="0,120,0,0" >
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="15" Direction="-75" />
+            </Rectangle.Effect>
+
+        </Rectangle>
+        <Grid Width="280" Height="280" Margin="0,120,0,0" >
+            <Label Content="Connexion" FontSize="30" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,20" FontFamily="/Tracker De Bug;component/fonts/#FontAwesome" Background="{x:Null}"  Foreground="#FF1C1C4F"/>
+            <StackPanel VerticalAlignment="Center" Height="150" Margin="20,70,20,0">
+                <TextBox FontFamily="/Tracker De Bug;component/fonts/#FontAwesome" 
+                         FontSize="24" 
+                         Foreground="Gray" Margin="0,20" 
+                         materialDesign:HintAssist.Hint="Email"/>
+            </StackPanel>
+        </Grid>-->
+
+        <!--<Rectangle Height="380" Width="380" Fill="#FF1B3C81" RadiusY="10" RadiusX="10" >
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="15" Direction="-75" />
+            </Rectangle.Effect>
+            
+        </Rectangle>-->
+        <!--<Rectangle Height="440" Width=" 360" Fill="#FFF7F7F7" RadiusX="10" RadiusY="10">
+            <Rectangle.Effect>
+                <DropShadowEffect ShadowDepth="2" BlurRadius="30" Direction="-75"/>
+            </Rectangle.Effect>
+        </Rectangle>-->
+
+
+    </Grid>
+</Window>

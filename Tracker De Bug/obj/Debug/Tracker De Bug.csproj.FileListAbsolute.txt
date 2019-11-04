@@ -1,0 +1,34 @@
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Tracker De Bug.csprojResolveAssemblyReference.cache
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Views\ShellView.g.cs
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\App.g.cs
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Tracker De Bug_MarkupCompile.cache
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Tracker De Bug_MarkupCompile.lref
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Views\ShellView.baml
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Tracker De Bug.exe
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Tracker De Bug.pdb
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\Tracker De Bug.exe.config
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\Tracker De Bug.exe
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\Tracker De Bug.pdb
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\Caliburn.Micro.dll
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\System.Windows.Interactivity.dll
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\Caliburn.Micro.xml
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\App.baml
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Tracker De Bug.g.resources
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Tracker_De_Bug.Properties.Resources.resources
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Tracker De Bug.csproj.GenerateResource.Cache
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\MaterialDesignColors.dll
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\MaterialDesignColors.pdb
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\obj\Debug\Tracker De Bug_Content.g.cs
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\ControlzEx.dll
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\MahApps.Metro.dll
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\ControlzEx.pdb
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\MahApps.Metro.pdb
+D:\Rayhane\Nouveau dossier\Visual Studio 2017\Projects\Tracker De Bug\Tracker De Bug\bin\Debug\MahApps.Metro.xml
